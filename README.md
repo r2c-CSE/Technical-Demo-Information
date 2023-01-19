@@ -30,7 +30,7 @@ You'll also want to have at least 1 repo in your account that is __not integrate
 
 ## Example Repos
 
-We have 3 example apps in different languages that you can choose from for your demo.
+We have 3 example apps in different languages that you can choose from for your demo.  You do not need to run these apps in any capacity - only setup the repos for scanning with Semgrep.
 - [bad-js-app (javascript)](https://github.com/r2c-CSE/bad-js-app)
 - [bad-python-app (python)](https://github.com/r2c-CSE/bad-python-app)
 - [bad-java-app (java)](https://github.com/r2c-CSE/bad-java-app)
