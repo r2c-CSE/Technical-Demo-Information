@@ -36,11 +36,11 @@ We have 3 example apps in different languages that you can choose from for your 
 - [bad-python-app (python)](https://github.com/r2c-CSE/bad-python-app)
 - [bad-java-app (java)](https://github.com/r2c-CSE/bad-java-app)
 
-## Additional Resources for learning about Semgrep
+## Additional Resources for Learning about Semgrep
 
 - [Our interactive learning experience](https://semgrep.dev/learn)
 - [Our YouTube channel including feature deep dives, meetups, and more](https://www.youtube.com/@semgrep)
 
-## Thank you
+## Thank You
 
 We appreciate the effort and attention you are dedicating to this process and look forward to learning more about you.
