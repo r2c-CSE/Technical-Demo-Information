@@ -39,7 +39,7 @@ We have 3 example apps in different languages that you can choose from for your 
 ## Additional Resources for learning about Semgrep
 
 - [Our interactive learning experience](https://semgrep.dev/learn)
-- [Our youtube channel including feature deep dives, meetups, and more](https://www.youtube.com/@semgrep)
+- [Our YouTube channel including feature deep dives, meetups, and more](https://www.youtube.com/@semgrep)
 
 ## Thank you
 
