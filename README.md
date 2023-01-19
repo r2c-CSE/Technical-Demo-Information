@@ -15,14 +15,31 @@ Our objective during this interview is to understand your technical expertise an
 ## Preparation
 
 To prepare for this interview, you will need to:
-- Clone or fork a github repository and integrate it with the Semgrep Cloud Platform for scanning in CI (expected 30 minutes prep)
+- Clone or fork a Github repository and integrate it with the Semgrep Cloud Platform for scanning in CI (expected 30 minutes prep)
 - Prepare to discuss the setup process and how this relates to a Developer (no expected prep outside of the other activities)
 - Prepare to triage findings and evaluate them as potential vulnerabilities (expected 30 minutes prep)
 - Understand the basics of Semgrep rules and prepare to customize a live example to detect security issues in code (expected 30 minutes prep)
 
-## Repos
+## Demo Environment
+
+To build your demo environment - fork or clone one of the repos referenced below into a personal Github account and [Sign in with Github](https://semgrep.dev/login?utm_source=website) for a free Semgrep Deployment. 
+
+[Reference our documentation](https://semgrep.dev/docs/) to learn more about integrating in CI and working with the Semgrep Cloud Platform. 
+
+You'll also want to have at least 1 repo in your account that is __not integrated__ in CI as a placeholder in the demo.  This can be an empty repo or you can opt to use another of our example repos.
+
+## Example Repos
 
 We have 3 example apps in different languages that you can choose from for your demo.
-- [bad-juice-shop (javascript)](https://github.com/r2c-CSE/bad-juice-shop)
-- [bad-flask-app (python)](https://github.com/r2c-CSE/bad-flask-app)
+- [bad-js-app (javascript)](https://github.com/r2c-CSE/bad-js-app)
+- [bad-python-app (python)](https://github.com/r2c-CSE/bad-python-app)
 - [bad-java-app (java)](https://github.com/r2c-CSE/bad-java-app)
+
+## Additional Resources for learning about Semgrep
+
+[Our interactive learning experience](https://semgrep.dev/learn)
+[Our youtube channel including feature deep dives, meetups, and more](https://www.youtube.com/@semgrep)
+
+## Thank you
+
+We appreciate the effort and attention you are dedicating to this process and look forward to learning more about you.
