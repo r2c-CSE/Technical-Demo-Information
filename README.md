@@ -23,6 +23,6 @@ To prepare for this interview, you will need to:
 ## Repos
 
 We have 3 example apps in different languages that you can choose from for your demo.
-- [juice-shop (javascript)](https://github.com/r2c-CSE/bad-juice-shop)
+- [bad-juice-shop (javascript)](https://github.com/r2c-CSE/bad-juice-shop)
 - [bad-flask-app (python)](https://github.com/r2c-CSE/bad-flask-app)
 - [bad-java-app (java)](https://github.com/r2c-CSE/bad-java-app)
